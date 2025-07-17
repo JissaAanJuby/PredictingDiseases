@@ -14,6 +14,12 @@ This is a Tkinter-based GUI application built with Python that predicts diseases
 - 🔄 Clear/reset button to restart predictions
 - 💾 Stores the **last prediction** for export
 
+
+> ✨ **Custom Features Added by Developer**:
+> - Accuracy label display  
+> - Export Report button with PDF and CSV support  
+> - Clear All button to reset GUI  
+> - Enhanced GUI layout and style
 ---
 
 ## ⚙️ Requirements
