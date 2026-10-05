@@ -116,8 +116,7 @@ Make sure to prepare training (`X`, `y`) and test sets (`X_test`, `y_test`) befo
 
 **Jissa Aan Juby**  
 Specialization: CSE with Data Science  
-Project guided with help from ChatGPT-4  
-GitHub: [@yourusername](https://github.com/yourusername)
+
 
 ---
 
